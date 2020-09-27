@@ -1,2 +1,2 @@
 Git Tutorial
-This tutorial will help to understand Git
+This tutorial will help to understand Git and GitHub very well
